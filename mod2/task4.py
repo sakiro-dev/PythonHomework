@@ -14,7 +14,7 @@ def octal(n):
     return result
 
 
-def hex(n):
+def hexadecimal(n):
     result = ""
     digits = "0123456789ABCDEF"
     while n > 0:
